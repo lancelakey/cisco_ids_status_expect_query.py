@@ -1,0 +1,3 @@
+This script uses Python and pexpect to spawn an ssh session, log into Cisco IDS/IPS sensors, run some commands, and print some output.
+
+In this case these scripts are running a command which shows how many alerts the sensor has processed in the past 23 hours.
